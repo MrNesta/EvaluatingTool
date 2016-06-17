@@ -1,0 +1,10 @@
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Release\EvaluatingTool.DAL.dll.config
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Release\EvaluatingTool.DAL.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Release\EvaluatingTool.DAL.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Release\EntityFramework.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Release\EntityFramework.SqlServer.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Release\EntityFramework.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Release\EntityFramework.SqlServer.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\obj\Release\EvaluatingTool.DAL.csprojResolveAssemblyReference.cache
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\obj\Release\EvaluatingTool.DAL.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\obj\Release\EvaluatingTool.DAL.pdb

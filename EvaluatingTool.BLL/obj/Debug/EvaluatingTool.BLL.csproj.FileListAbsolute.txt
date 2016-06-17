@@ -1,0 +1,99 @@
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.csprojResolveAssemblyReference.cache
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.dll
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.pdb
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\AutoMapper.dll
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.DAL.dll
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\Ninject.dll
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EntityFramework.dll
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.DAL.pdb
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\AutoMapper.xml
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\Ninject.xml
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EntityFramework.xml
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.dll
+F:\С#\EvaluatingTool\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.pdb
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.dll
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.pdb
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\AutoMapper.dll
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.DAL.dll
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\Ninject.dll
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EntityFramework.dll
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.DAL.pdb
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\AutoMapper.xml
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\Ninject.xml
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\bin\Debug\EntityFramework.xml
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.csprojResolveAssemblyReference.cache
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.dll
+E:\С#\EvaluatingTool\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.pdb
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.pdb
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\AutoMapper.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.DAL.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Ninject.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EntityFramework.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.DAL.pdb
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\AutoMapper.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Ninject.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EntityFramework.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.csprojResolveAssemblyReference.cache
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\AutoMapper.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.DAL.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Ninject.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EntityFramework.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.DAL.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\AutoMapper.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Ninject.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EntityFramework.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.csprojResolveAssemblyReference.cache
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.pdb
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.pdb
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\AutoMapper.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.DAL.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Ninject.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EntityFramework.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.DAL.pdb
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\AutoMapper.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Ninject.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EntityFramework.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.csprojResolveAssemblyReference.cache
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\obj\Debug\EvaluatingTool.BLL.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.Security.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Newtonsoft.Json.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Owin.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.Security.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Newtonsoft.Json.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.dll.config
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\ru\Microsoft.Owin.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\EvaluatingTool.BLL.dll.config
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.Security.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Newtonsoft.Json.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Owin.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Microsoft.Owin.Security.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\Newtonsoft.Json.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.BLL\bin\Debug\ru\Microsoft.Owin.resources.dll

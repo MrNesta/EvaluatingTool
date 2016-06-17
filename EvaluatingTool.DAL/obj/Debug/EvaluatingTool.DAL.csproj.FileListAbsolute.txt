@@ -1,0 +1,40 @@
+F:\С#\EvaluatingTool\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.csprojResolveAssemblyReference.cache
+F:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.dll.config
+F:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.dll
+F:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.pdb
+F:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EntityFramework.dll
+F:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EntityFramework.xml
+F:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\С#\EvaluatingTool\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.dll
+F:\С#\EvaluatingTool\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.pdb
+E:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.dll.config
+E:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.dll
+E:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.pdb
+E:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EntityFramework.dll
+E:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EntityFramework.xml
+E:\С#\EvaluatingTool\EvaluatingTool.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\С#\EvaluatingTool\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.csprojResolveAssemblyReference.cache
+E:\С#\EvaluatingTool\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.dll
+E:\С#\EvaluatingTool\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.dll.config
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EntityFramework.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EntityFramework.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.csprojResolveAssemblyReference.cache
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.pdb
+G:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.dll.config
+G:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EvaluatingTool.DAL.pdb
+G:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EntityFramework.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EntityFramework.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.csprojResolveAssemblyReference.cache
+G:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.DAL\obj\Debug\EvaluatingTool.DAL.pdb

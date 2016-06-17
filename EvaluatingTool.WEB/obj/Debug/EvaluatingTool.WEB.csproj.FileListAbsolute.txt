@@ -1,0 +1,254 @@
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.dll.config
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.pdb
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Microsoft.Web.Infrastructure.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Helpers.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Mvc.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Razor.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.Deployment.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.Razor.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Razor.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.Deployment.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.Razor.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Helpers.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Mvc.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Razor.resources.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.resources.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Helpers.resources.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Mvc.resources.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.csprojResolveAssemblyReference.cache
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.pdb
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\AutoMapper.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.BLL.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.Web.Common.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.Web.Mvc.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\WebActivatorEx.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.DAL.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EntityFramework.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.BLL.pdb
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\AutoMapper.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.Web.Common.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.Web.Mvc.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.DAL.pdb
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EntityFramework.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EntityFramework.SqlServer.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EntityFramework.SqlServer.xml
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\jQuery.Validation.Unobtrusive.Native.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Newtonsoft.Json.dll
+F:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Newtonsoft.Json.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.dll.config
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.pdb
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\AutoMapper.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EntityFramework.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EntityFramework.SqlServer.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.BLL.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\jQuery.Validation.Unobtrusive.Native.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Newtonsoft.Json.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.Web.Common.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.Web.Mvc.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Helpers.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Mvc.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Razor.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.Deployment.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.Razor.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\WebActivatorEx.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.DAL.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.BLL.pdb
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\AutoMapper.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EntityFramework.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EntityFramework.SqlServer.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Newtonsoft.Json.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.Web.Common.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\Ninject.Web.Mvc.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Razor.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.Deployment.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Webpages.Razor.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Helpers.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\System.Web.Mvc.xml
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\EvaluatingTool.DAL.pdb
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Razor.resources.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.resources.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Helpers.resources.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\bin\ru\System.Web.Mvc.resources.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.csprojResolveAssemblyReference.cache
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.dll
+E:\С#\EvaluatingTool\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.pdb
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.dll.config
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.pdb
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\AutoMapper.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.SqlServer.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.BLL.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\jQuery.Validation.Unobtrusive.Native.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Newtonsoft.Json.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Common.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Mvc.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Helpers.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Mvc.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Razor.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Deployment.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Razor.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\WebActivatorEx.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.DAL.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.BLL.pdb
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\AutoMapper.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.SqlServer.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Newtonsoft.Json.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Common.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Mvc.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Razor.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Deployment.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Razor.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Helpers.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Mvc.xml
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.DAL.pdb
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Razor.resources.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.resources.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Helpers.resources.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Mvc.resources.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.csprojResolveAssemblyReference.cache
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.dll
+E:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.dll.config
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\AutoMapper.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.SqlServer.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.BLL.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\jQuery.Validation.Unobtrusive.Native.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Web.Infrastructure.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Newtonsoft.Json.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Common.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Mvc.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Helpers.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Mvc.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Razor.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Deployment.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Razor.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\WebActivatorEx.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.DAL.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.BLL.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\AutoMapper.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.SqlServer.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Newtonsoft.Json.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Common.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Mvc.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Razor.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Deployment.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Razor.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Helpers.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Mvc.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.DAL.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Razor.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Helpers.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Mvc.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.csprojResolveAssemblyReference.cache
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.pdb
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.dll.config
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.WEB.pdb
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\AutoMapper.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.SqlServer.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.BLL.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\jQuery.Validation.Unobtrusive.Native.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Newtonsoft.Json.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Common.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Mvc.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Helpers.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Mvc.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Razor.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Deployment.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Razor.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\WebActivatorEx.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.DAL.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.BLL.pdb
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\AutoMapper.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EntityFramework.SqlServer.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Newtonsoft.Json.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Common.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Ninject.Web.Mvc.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Razor.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Deployment.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Webpages.Razor.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Helpers.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\System.Web.Mvc.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\EvaluatingTool.DAL.pdb
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Razor.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.Deployment.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Webpages.Razor.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Helpers.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\System.Web.Mvc.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.csprojResolveAssemblyReference.cache
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\obj\Debug\EvaluatingTool.WEB.pdb
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.Security.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Owin.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.Security.xml
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\Microsoft.Owin.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\Microsoft.Owin.Security.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.AspNet.SignalR.Core.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.Security.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Owin.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.AspNet.SignalR.Core.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\Microsoft.Owin.Security.xml
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\Microsoft.Owin.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\С#\EvaluatingTool - копия\EvaluatingTool.WEB\bin\ru\Microsoft.Owin.Security.resources.dll
