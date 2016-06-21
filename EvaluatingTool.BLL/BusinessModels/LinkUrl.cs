@@ -19,8 +19,8 @@ namespace EvaluatingTool.BLL.BusinessModels
         public List<string> GetURLAddresses()
         {
             List<string> urlAddresses = new List<string>();
-            string urlName = url.Substring(0, url.IndexOf('/', 9));
-            
+            string urlName = url.IndexOf('/', 9) != -1 ? url.Substring(0, url.IndexOf('/', 9)) : url;
+
             try
             {                
                 using (HttpWebResponse resp = (HttpWebResponse)WebRequest.Create(url).GetResponse())
