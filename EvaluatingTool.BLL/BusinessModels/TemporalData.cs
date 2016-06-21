@@ -20,6 +20,7 @@ namespace EvaluatingTool.BLL.BusinessModels
             {
                 HttpWebRequest request = (HttpWebRequest)WebRequest.
                         Create(urlAddress);
+                request.UserAgent = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36";
 
                 Stopwatch timer = Stopwatch.StartNew();
                 try
